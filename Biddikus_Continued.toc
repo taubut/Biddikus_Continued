@@ -1,0 +1,9 @@
+## Interface: 30403
+## Title: Biddikus_Continued
+## Notes: This Addon bids items for use with a DKP system.
+## Author: James "Gromph" Gardiner, Continued by: Srumar
+## Version: 2.0
+## SavedVariables: BiddikusDB
+## IconTexture: Interface\AddOns\Biddikus_Continued\media\adtlogo
+
+Biddikus_Continued.xml
